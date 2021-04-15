@@ -3,16 +3,6 @@ description: "Minifies the specified JS file with babel"
 
 author: "XanderK <xanderk@notbo.red>"
 
-inputs:
-  input_file:
-    description: "JS file to minify"
-    required: true
-    default: ""
-  output_file:
-    description: "Filename for minified JS"
-    required: true
-    default: ""
-
 runs:
   using: "docker"
   image: "Dockerfile"

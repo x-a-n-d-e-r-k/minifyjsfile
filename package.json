@@ -1,0 +1,13 @@
+{
+	"name": "minifyjsfile",
+	"repository": "x-a-n-d-e-r-k/minifyjsfile",
+	"homepage": "https://github.com/x-a-n-d-e-r-k/minifyjsfile/",
+	"dependencies": {
+		"babel-minify": "^0.5.1"
+	},
+	"author": {
+		"name": "XanderK",
+		"email": "xanderk@notbo.red",
+		"url": "https://github.com/x-a-n-d-e-r-k"
+	}
+}

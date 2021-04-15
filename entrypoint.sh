@@ -1,3 +1,3 @@
 #!/bin/bash -l
 
-npx minify $INPUT_INPUT_FILE --out-file $INPUT_OUTPUT_FILE
+npx minify "/github/workspace/$INPUT_INPUT_FILE" --out-file "/github/workspace/$INPUT_OUTPUT_FILE"

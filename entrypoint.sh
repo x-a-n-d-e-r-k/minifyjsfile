@@ -1,3 +1,3 @@
 #!/bin/bash -l
 
-npx minify $INPUT_INPUT_FILE --out-file $INPUT_OUTPUT_FILE
+npx minify all_scripts.js --out-file all_scripts_min.js
